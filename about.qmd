@@ -1,0 +1,28 @@
+---
+title: "關於本站"
+image: img/avatar.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/USERNAME
+    - icon: envelope
+      text: Email
+      href: mailto:you@example.com
+---
+
+## 這個網站在做什麼
+
+我在課堂上教經濟學，也在課堂外和 AI 一起備課、寫講義、做研究。這個網站是這段同行路程的公開筆記。
+
+文章分三類：
+
+| 分類 | 內容 | 節奏 |
+|---|---|---|
+| 思想文 | 框架、判斷、AI 時代的教與學 | 不定期 |
+| 課程伴讀文 | 對應課程進度，陪學生走每一週 | 學期中 |
+| 課後復盤文 | 上完課的誠實檢討 | 學期中 |
+
+![](img/logo-tall.png){width=60% fig-align="center"}

@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "與 AI 同行"
+  description: "教學紀錄、思想筆記與 AI 協作實驗"
+  site-url: https://USERNAME.github.io/ai-blog/   # 發佈後改成您的網址
+  favicon: img/avatar.jpg
+  navbar:
+    background: "#2C4A6E"
+    foreground: "#F5EFDF"
+    left:
+      - text: "首頁"
+        href: index.qmd
+      - text: "思想文"
+        href: index.qmd#category=思想文
+      - text: "課程伴讀文"
+        href: index.qmd#category=課程伴讀文
+      - text: "課後復盤文"
+        href: index.qmd#category=課後復盤文
+      - text: "關於"
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/USERNAME   # 改成您的 GitHub
+  page-footer:
+    center: "《與 AI 同行》 · 以 Quarto 建置 · 內容採 CC BY-NC-SA 4.0"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-title: "本文目錄"
+    lang: zh-TW
+    code-fold: false
+    link-external-newwindow: true
+
+# 讓 $...$ 與 $$...$$ 的 LaTeX 正常渲染（Quarto 預設即支援 MathJax/KaTeX）
+# Mermaid 圖用 ```{mermaid} 區塊即可

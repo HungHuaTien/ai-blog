@@ -1,0 +1,18 @@
+---
+title: "（文章標題）"
+description: "（一句話摘要，會顯示在列表頁）"
+date: 2026-09-01
+categories: [課程伴讀文]   # 思想文 / 課程伴讀文 / 課後復盤文，可多選
+draft: true                # 草稿不會出現在網站上；完成後刪掉此行
+# image: ../../img/front.png   # 列表縮圖，可省略
+---
+
+（內文用您熟悉的 markdown 寫即可。Typora 寫好貼過來也行。）
+
+行內數學 $x^2$、獨立數學：
+
+$$
+e^{i\pi} + 1 = 0
+$$
+
+![](../../img/end.png){.end-stamp}

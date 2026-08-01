@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "與 AI 同行",
+    "section": "",
+    "text": "這裡記錄一位經濟學教師與 AI 同行的教學實驗：思想文談框架與判斷、課程伴讀文陪學生走過每一週、課後復盤文誠實記下哪些有效、哪些失敗。\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n本站開張：與 AI 同行的第一步\n\n\n\n思想文\n\n\n\n示範文章——展示數學、Mermaid 圖、表格與文末圖章的寫法，確認網站功能正常後可刪除。\n\n\n\n\n\n2026年8月2日\n\n1 分鐘\n\n\n\n\n無符合的項目"
+  },
+  {
+    "objectID": "MANIFEST.html",
+    "href": "MANIFEST.html",
+    "title": "圖檔對照表（原始檔名 → 專案內檔名）",
+    "section": "",
+    "text": "圖檔對照表（原始檔名 → 專案內檔名）\n\n\n\n\n\n\n\n\n原始上傳檔名\n專案內路徑\n用途\n\n\n\n\nFront.jpg\nimg/front.png\n首頁橫幅（title-block-banner）、示範文章縮圖\n\n\nLogo.png\nimg/logo-tall.png\n關於頁直式插圖\n\n\nEnd.png\nimg/end.png\n文末「加油！」圖章（{.end-stamp} 樣式）\n\n\nlogo.jpg\nimg/avatar.jpg\n關於頁頭像、網站 favicon\n\n\n\n註：Front.jpg 實際內容為 PNG 格式，故存為 .png。"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "關於本站",
+    "section": "",
+    "text": "我在課堂上教經濟學，也在課堂外和 AI 一起備課、寫講義、做研究。這個網站是這段同行路程的公開筆記。\n文章分三類：\n\n\n\n分類\n內容\n節奏\n\n\n\n\n思想文\n框架、判斷、AI 時代的教與學\n不定期\n\n\n課程伴讀文\n對應課程進度，陪學生走每一週\n學期中\n\n\n課後復盤文\n上完課的誠實檢討\n學期中"
+  },
+  {
+    "objectID": "about.html#這個網站在做什麼",
+    "href": "about.html#這個網站在做什麼",
+    "title": "關於本站",
+    "section": "",
+    "text": "我在課堂上教經濟學，也在課堂外和 AI 一起備課、寫講義、做研究。這個網站是這段同行路程的公開筆記。\n文章分三類：\n\n\n\n分類\n內容\n節奏\n\n\n\n\n思想文\n框架、判斷、AI 時代的教與學\n不定期\n\n\n課程伴讀文\n對應課程進度，陪學生走每一週\n學期中\n\n\n課後復盤文\n上完課的誠實檢討\n學期中"
+  },
+  {
+    "objectID": "posts/2026-08-hello/index.html",
+    "href": "posts/2026-08-hello/index.html",
+    "title": "本站開張：與 AI 同行的第一步",
+    "section": "",
+    "text": "如果您看得到下面的數學式、流程圖與表格，代表網站設定成功。\n\n\n行內公式：學習生產函數 \\(Y = f(K, L, A)\\)。\n獨立公式：\n\\[\nY = \\left[ \\alpha K^{\\rho} + (1-\\alpha) (A \\cdot L)^{\\rho} \\right]^{1/\\rho}\n\\]\n\n\n\n\n\n\n\n\nflowchart LR\n    A[看清楚] --&gt; B[想辦法] --&gt; C[出成果] --&gt; D[變更好]\n    D -.-&gt; A\n\n\n\n\n\n\n\n\n\n\n\n\n元素\n對應\n口號\n\n\n\n\nInput\nContext + Constraint\n看清楚\n\n\nProcess\nRole + Tools\n想辦法\n\n\nOutput\nFormat + Rubric\n出成果\n\n\nEnhance\nVerification + Refinement\n變更好\n\n\n\n一切正常的話，這篇就可以刪掉，換上您的〈答案變便宜之後〉。"
+  },
+  {
+    "objectID": "posts/2026-08-hello/index.html#這篇文章是功能測試",
+    "href": "posts/2026-08-hello/index.html#這篇文章是功能測試",
+    "title": "本站開張：與 AI 同行的第一步",
+    "section": "",
+    "text": "如果您看得到下面的數學式、流程圖與表格，代表網站設定成功。\n\n\n行內公式：學習生產函數 \\(Y = f(K, L, A)\\)。\n獨立公式：\n\\[\nY = \\left[ \\alpha K^{\\rho} + (1-\\alpha) (A \\cdot L)^{\\rho} \\right]^{1/\\rho}\n\\]\n\n\n\n\n\n\n\n\nflowchart LR\n    A[看清楚] --&gt; B[想辦法] --&gt; C[出成果] --&gt; D[變更好]\n    D -.-&gt; A\n\n\n\n\n\n\n\n\n\n\n\n\n元素\n對應\n口號\n\n\n\n\nInput\nContext + Constraint\n看清楚\n\n\nProcess\nRole + Tools\n想辦法\n\n\nOutput\nFormat + Rubric\n出成果\n\n\nEnhance\nVerification + Refinement\n變更好\n\n\n\n一切正常的話，這篇就可以刪掉，換上您的〈答案變便宜之後〉。"
+  }
+]

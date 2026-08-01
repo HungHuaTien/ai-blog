@@ -1,0 +1,46 @@
+/*-- scss:defaults --*/
+// 色彩取自封面油畫：普魯士藍 × 赭金 × 米白
+$primary: #2C4A6E;        // 深藍（AI 的藍身影）
+$link-color: #B5652A;     // 赭金（畫面暖色）
+$body-bg: #FDFBF5;
+$font-family-sans-serif: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+$headings-font-weight: 700;
+
+/*-- scss:rules --*/
+h1, h2, h3 { color: #2C4A6E; }
+
+h2 {
+  border-bottom: 2px solid #E4D5B0;
+  padding-bottom: .3rem;
+}
+
+// 文章列表卡片微調
+.quarto-listing .listing-title { font-weight: 700; }
+
+// 文末「加油！」圖章：在文章結尾放 ![](../../img/end.png){.end-stamp}
+img.end-stamp {
+  display: block;
+  margin: 2.5rem auto 0;
+  width: 180px;
+}
+
+// 引用區塊：溫暖底色
+blockquote {
+  background: #FBF3E2;
+  border-left: 4px solid #B5652A;
+  padding: .6rem 1rem;
+}
+
+// 首頁橫幅：加高並完整呈現兩張臉
+.quarto-title-banner {
+  min-height: 360px;
+  background-size: cover;
+  background-position: center 35%;
+  display: flex;
+  align-items: flex-end;
+}
+.quarto-title-banner h1,
+.quarto-title-banner .subtitle {
+  text-shadow: 0 1px 6px rgba(0,0,0,.55);
+}
+

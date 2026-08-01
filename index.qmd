@@ -1,0 +1,20 @@
+---
+title: "與 AI 同行"
+subtitle: "答案變便宜之後，我們如何教、如何學、如何想"
+image: img/front-wide.png
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  fields: [date, title, categories, description, reading-time]
+page-layout: full
+title-block-banner: img/front-wide.png
+title-block-banner-color: "#F5EFDF"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+這裡記錄一位經濟學教師與 AI 同行的教學實驗：**思想文**談框架與判斷、**課程伴讀文**陪學生走過每一週、**課後復盤文**誠實記下哪些有效、哪些失敗。
+:::
