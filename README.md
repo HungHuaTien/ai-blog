@@ -1,7 +1,5 @@
 # 《與 AI 同行》Quarto 部落格骨架
 
-https://hunghuatien.github.io/ai-blog/
-
 這是一個可直接使用的 Quarto 網站專案。照以下步驟，約 20 分鐘可上線。
 
 ## 一、安裝（只需一次）

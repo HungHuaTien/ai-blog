@@ -1,0 +1,12 @@
+# posts/ 資料夾內所有文章的共同設定
+# （首頁與關於頁不在此資料夾，因此不會出現留言區）
+
+comments:
+  giscus:
+    repo: hunghuatien/ai-blog
+    category: Announcements     # 用 Announcements 分類：只有站長能開新串，讀者只能回覆，避免雜訊
+    mapping: pathname           # 每篇文章依網址對應一個獨立討論串
+    reactions-enabled: true     # 允許讀者按表情符號
+    loading: lazy               # 捲到底部才載入，不拖慢文章開啟速度
+    input-position: top
+    language: zh-TW

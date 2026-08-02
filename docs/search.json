@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "與 AI 同行",
     "section": "",
-    "text": "這裡記錄一位經濟學教師與 AI 同行的教學實驗：思想文談框架與判斷、課程伴讀文陪學生走過每一週、課後復盤文誠實記下哪些有效、哪些失敗。\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n本站開張：與 AI 同行的第一步\n\n\n\n思想文\n\n\n\n示範文章——展示數學、Mermaid 圖、表格與文末圖章的寫法，確認網站功能正常後可刪除。\n\n\n\n\n\n2026年8月2日\n\n1 分鐘\n\n\n\n\n無符合的項目"
+    "text": "這裡記錄一位經濟學教師與 AI 同行的教學實驗：思想文談框架與判斷、課程伴讀文陪學生走過每一週、課後復盤文誠實記下哪些有效、哪些失敗。\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n答案變便宜之後，什麼變得更珍貴？\n\n\n\n思想文\n\n\n\nAI 降低了生成答案的成本，卻沒有讓所有成本一起消失。當答案不再稀缺，問題選擇、驗證與責任配置反而變得更重要。\n\n\n\n\n\n2026年8月2日\n\n1 分鐘\n\n\n\n\n\n\n本站開張：與 AI 同行的第一步\n\n\n\n思想文\n\n\n\n示範文章——展示數學、Mermaid 圖、表格與文末圖章的寫法，確認網站功能正常後可刪除。\n\n\n\n\n\n2026年8月2日\n\n1 分鐘\n\n\n\n\n無符合的項目"
   },
   {
     "objectID": "about.html",
@@ -40,5 +40,75 @@
     "title": "圖檔對照表（原始檔名 → 專案內檔名）",
     "section": "",
     "text": "圖檔對照表（原始檔名 → 專案內檔名）\n\n\n\n\n\n\n\n\n原始上傳檔名\n專案內路徑\n用途\n\n\n\n\nFront.jpg\nimg/front.png\n首頁橫幅（title-block-banner）、示範文章縮圖\n\n\nLogo.png\nimg/logo-tall.png\n關於頁直式插圖\n\n\nEnd.png\nimg/end.png\n文末「加油！」圖章（{.end-stamp} 樣式）\n\n\nlogo.jpg\nimg/avatar.jpg\n關於頁頭像、網站 favicon\n\n\n\n註：Front.jpg 實際內容為 PNG 格式，故存為 .png。"
+  },
+  {
+    "objectID": "posts/2026-08-answers-cheap/index.html",
+    "href": "posts/2026-08-answers-cheap/index.html",
+    "title": "答案變便宜之後，什麼變得更珍貴？",
+    "section": "",
+    "text": "現在，取得一個看起來完整的答案，可能只需要幾十秒。\n我們可以請 AI 寫文章、整理資料、製作簡報、產生程式，也可以要求它同時扮演支持者、反對者與編輯。過去令人困擾的是「不知道怎麼開始」；今天更常見的困擾，則是面前已有五個答案，卻不知道哪一個值得相信。\n這表示 AI 降低了生成答案的成本，卻沒有讓所有成本一起消失。\n一份答案從出現到值得使用，中間仍然需要回答：問題是否值得處理？來源是否真的支持主張？不同說法為什麼互相衝突？這個建議適合誰？錯誤可能傷害誰？最後由誰決定採用？\n當答案本身不再稀缺，這些與答案互補的能力，反而變得更重要。"
+  },
+  {
+    "objectID": "posts/2026-08-answers-cheap/index.html#生成變便宜驗證沒有同樣便宜",
+    "href": "posts/2026-08-answers-cheap/index.html#生成變便宜驗證沒有同樣便宜",
+    "title": "答案變便宜之後，什麼變得更珍貴？",
+    "section": "生成變便宜，驗證沒有同樣便宜",
+    "text": "生成變便宜，驗證沒有同樣便宜\nAI 可以快速產生大量內容，但查核一項具體聲明，通常仍要回到來源、理解研究方法、確認制度是否更新，甚至重新執行分析。生成速度與驗證速度之間的落差，使未驗證內容大量增加。\n真正的困難不再是「市場上沒有好內容」，而是好內容與壞內容都很多，並且表面看起來同樣流暢。\n在這種情況下，來源、查核日期、可重跑程序、作者署名與公開更正，不是文章末端的裝飾，而是品質訊號。它們讓讀者知道：這個人不只願意表達，也願意接受查問與修正。\n因此，可信不等於永遠正確。可信更接近三件事：我說清楚證據支持到哪裡；我不把推測包裝成事實；我出錯時留下可查詢的更正。"
+  },
+  {
+    "objectID": "posts/2026-08-answers-cheap/index.html#ai-的能力可以很強責任仍需要被配置",
+    "href": "posts/2026-08-answers-cheap/index.html#ai-的能力可以很強責任仍需要被配置",
+    "title": "答案變便宜之後，什麼變得更珍貴？",
+    "section": "AI 的能力可以很強，責任仍需要被配置",
+    "text": "AI 的能力可以很強，責任仍需要被配置\n人與 AI 協作時，常把問題問成：「AI 能不能做這件事？」\n更重要的問題其實是：「即使 AI 能做，誰有權決定目的？誰負責查核？誰可以採用？後果由誰承擔？」\nAI 可以提出選項、檢查格式、模擬反方、重跑程式，甚至在局部任務上比人更準確。但一份成果進入真實世界後，法律、經濟、專業與人際後果，仍必須配置給可以被問責的人或組織。\n能力與責任並不是同一件事。\n所以，人不必在每個步驟都比 AI 強，卻不能因此退出方向、授權、驗證與採用。真正需要治理的，不是如何控制一個工具，而是自己是否清楚知道為什麼做、根據什麼採用，以及願意承擔什麼。"
+  },
+  {
+    "objectID": "posts/2026-08-answers-cheap/index.html#gate-不是官僚程序而是負責的形式",
+    "href": "posts/2026-08-answers-cheap/index.html#gate-不是官僚程序而是負責的形式",
+    "title": "答案變便宜之後，什麼變得更珍貴？",
+    "section": "Gate 不是官僚程序，而是負責的形式",
+    "text": "Gate 不是官僚程序，而是負責的形式\n我們很容易討厭表格、檢核與審查，因為它們可能讓人只求格式合規，沒有真正思考。但問題不在於是否有 Gate，而在於 Gate 保護的是什麼。\n對公共文章來說，最低的 Gate 是：沒有假引用，不把推測寫成事實，不故意隱藏主要反方。\n對專業建議來說，最低的 Gate 是：使用者知道限制與風險，成果可以檢查，建議沒有超出證據與授權。\n對研究來說，最低的 Gate 是：資料與證據真實，推論可以被反駁，失敗的檢查不被隱藏，後來的人能理解並重現。\nGate 不是為了阻擋產出，而是避免我們把錯誤成本轉嫁給讀者、使用者或後來的研究者。"
+  },
+  {
+    "objectID": "posts/2026-08-answers-cheap/index.html#問題選擇可能比答案生產更珍貴",
+    "href": "posts/2026-08-answers-cheap/index.html#問題選擇可能比答案生產更珍貴",
+    "title": "答案變便宜之後，什麼變得更珍貴？",
+    "section": "問題選擇，可能比答案生產更珍貴",
+    "text": "問題選擇，可能比答案生產更珍貴\n假設學生問 AI：「AI 是否幫助學習？」它很容易產生一篇正反兼具的文章。但真正值得追問的，可能是：AI 提高的是作業產出、理解、努力，還是長期能力？當作業變得容易完成，學生會把省下的時間投入更深的學習，還是減少真正需要思考的努力？評分方式又會如何改變這個選擇？\n一個完整卻模糊的答案，未必比一個尚未回答、但定義清楚的問題更有價值。\n答案變便宜之後，我們不必與 AI 比賽誰能生成更多內容。更重要的是培養幾種能力：看見值得處理的問題，辨認答案的界線，設計人與 AI 的分工，形成可以被檢查的成果，並在出錯後願意修正。\nAI 可以陪我們走得更快、更遠；但為什麼出發、選擇哪條路，以及什麼不能在路上犧牲，仍然是人的工作。\n\n本文屬於《與 AI 同行》思想母稿系列。核心主張是：AI 降低生成成本後，問題選擇、驗證與責任配置等互補能力的相對重要性上升。本文不主張所有生成或驗證成本在所有任務中都以相同速度變化，也不主張人類在每一項局部任務上都優於 AI。"
+  },
+  {
+    "objectID": "README-PATCH.html",
+    "href": "README-PATCH.html",
+    "title": "本次更新內容與安裝步驟",
+    "section": "",
+    "text": "檔案\n放到專案的位置\n作用\n\n\n\n\nposts/2026-08-answers-cheap/index.qmd\n同路徑（新增資料夾）\n第一篇正式文章〈答案變便宜之後〉\n\n\nposts/_metadata.yml\n同路徑（新增檔案）\n所有文章自動加上 giscus 留言區\n\n\n\n把 posts 資料夾整個複製到您的 ai-blog 專案裡合併即可。\n\n\n\n\n開啟 Discussions： repo 頁面 → Settings → General → 往下捲到 Features → 勾選 Discussions\n安裝 giscus App： 打開 https://github.com/apps/giscus → Install → 選「Only select repositories」→ 選 ai-blog → Install\n\n\n\n\n在專案資料夾執行：\nquarto render\ngit add .\ngit commit -m \"post 1 + giscus comments\"\ngit push\n等 1-2 分鐘後重新整理網站。打開文章捲到最底，應可看到留言區 （需用 GitHub 帳號登入才能留言——學生多半都有）。\n\n\n\n示範文章功能已驗證完畢的話，可刪除 posts/2026-08-hello/ 整個資料夾。"
+  },
+  {
+    "objectID": "README-PATCH.html#包含檔案",
+    "href": "README-PATCH.html#包含檔案",
+    "title": "本次更新內容與安裝步驟",
+    "section": "",
+    "text": "檔案\n放到專案的位置\n作用\n\n\n\n\nposts/2026-08-answers-cheap/index.qmd\n同路徑（新增資料夾）\n第一篇正式文章〈答案變便宜之後〉\n\n\nposts/_metadata.yml\n同路徑（新增檔案）\n所有文章自動加上 giscus 留言區\n\n\n\n把 posts 資料夾整個複製到您的 ai-blog 專案裡合併即可。"
+  },
+  {
+    "objectID": "README-PATCH.html#giscus-留言功能需先在-github-做兩個開關各約-30-秒",
+    "href": "README-PATCH.html#giscus-留言功能需先在-github-做兩個開關各約-30-秒",
+    "title": "本次更新內容與安裝步驟",
+    "section": "",
+    "text": "開啟 Discussions： repo 頁面 → Settings → General → 往下捲到 Features → 勾選 Discussions\n安裝 giscus App： 打開 https://github.com/apps/giscus → Install → 選「Only select repositories」→ 選 ai-blog → Install"
+  },
+  {
+    "objectID": "README-PATCH.html#發佈",
+    "href": "README-PATCH.html#發佈",
+    "title": "本次更新內容與安裝步驟",
+    "section": "",
+    "text": "在專案資料夾執行：\nquarto render\ngit add .\ngit commit -m \"post 1 + giscus comments\"\ngit push\n等 1-2 分鐘後重新整理網站。打開文章捲到最底，應可看到留言區 （需用 GitHub 帳號登入才能留言——學生多半都有）。"
+  },
+  {
+    "objectID": "README-PATCH.html#順手清理可選",
+    "href": "README-PATCH.html#順手清理可選",
+    "title": "本次更新內容與安裝步驟",
+    "section": "",
+    "text": "示範文章功能已驗證完畢的話，可刪除 posts/2026-08-hello/ 整個資料夾。"
   }
 ]
